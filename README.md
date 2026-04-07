@@ -1,4 +1,4 @@
-# Spatio-Temporal-Energy
+# Scalable HPC-Based Spatio-Temporal Energy Demand Forecasting with CPU–GPU Hybrid Parallelism
 # AI Energy Intelligence Platform (HPC Project)
 
 ## Project Overview
